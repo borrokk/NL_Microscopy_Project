@@ -1,0 +1,15 @@
+numpy
+matplotlib
+pandas
+Pillow
+openpyxl
+tensorflow
+opencv-python
+scikit-learn
+
+# PyTorch CUDA 12.8 build: the lab driver (550, CUDA 12.4) can't run CUDA 13 builds
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.11.0+cu128
+torchmetrics==1.9.0
+torchvision==0.26.0+cu128

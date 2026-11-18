@@ -1,0 +1,14 @@
+
+data/
+src/results/v2_torch/
+# Environments
+.env
+.envrc
+.venv
+.venv_tf/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+

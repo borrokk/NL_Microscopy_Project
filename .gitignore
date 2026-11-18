@@ -1,0 +1,11 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+results/
+uploads/
+*.pt
+*.pth
+*.h5
+*.log
+nohup.out
